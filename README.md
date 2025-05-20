@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Vaishnavi Mahadasi 👋
 
-<!--
-**V-1210/V-1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student in Computer Science (AI & ML) at VBIT, Hyderabad  
+💡 I enjoy solving real-world problems using Python and AI  
+🛠️ Skills: Python, C, HTML, Excel, Java  
+📁 Projects:
+- Smart Dustbin using Arduino
+- Drug Inventory Tracker (Blockchain + Python)
+- Virtual Chemistry Lab using XR & AI
 
-Here are some ideas to get you started:
+📜 Certifications:
+- C Programming – C++ Institute
+- AI-ML Virtual Internship – AICTE
+- Networking Virtual Internship – Zscaler
+- Accenture Virtual Programs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Email: vaishnavimahadasi.vm@gmail.com
+📍 Location: Hyderabad, India
+
